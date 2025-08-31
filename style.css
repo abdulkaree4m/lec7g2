@@ -1,6 +1,9 @@
 body{
 
-    background-color: rgb(193, 13, 43);
+    background-color: pink;
+}
+p{
+    color:red;
 }
 h1{
     color: blue;
